@@ -1,1 +1,0 @@
-This is a third file that is created in our repository.
