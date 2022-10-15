@@ -1,2 +1,4 @@
 This is a new file on BR-2.  I have now changed this.  Changed line in master.
 I added a line here.
+
+I have added a new line.
